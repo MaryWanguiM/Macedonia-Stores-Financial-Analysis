@@ -30,7 +30,7 @@ An interactive financial analysis dashboard developed using Microsoft Power BI t
 ## Data Source
 This project uses sample financial data for educational and portfolio purposes.
 
-**Dataset source:** [Insert the original dataset source link here.]
+**Dataset source:** https://go.microsoft.com/fwlink/?LinkID=521962
 
 The dataset should not be interpreted as actual financial results for a real company unless independently verified.
 
